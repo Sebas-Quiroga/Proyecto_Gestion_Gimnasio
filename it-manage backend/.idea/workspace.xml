@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c1f057a-3b28-4651-a62c-3ba8b046b38b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/corhuila/FitManage/DataLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/corhuila/FitManage/Dto/IClientreDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tsconfig.spec.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2o7gNR7G0NJKo5rKpy6YNBep1rD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jsnq1/OneDrive/Escritorio/fit-manage/Proyecto-Programaci-n-m-vil-main/tasky backend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;d64f0d2dab0fed6ec3cb76baa2a54013&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jsnq1\OneDrive\Escritorio\fit-manage\Proyecto-Programaci-n-m-vil-main\tasky backend\src\main\java\com\corhuila\FitManage" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FitManageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="FitManage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.corhuila.FitManage.FitManageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c1f057a-3b28-4651-a62c-3ba8b046b38b" name="Changes" comment="" />
+      <created>1730225989475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730225989475</updated>
+      <workItem from="1730225990902" duration="374000" />
+      <workItem from="1730226469235" duration="6730000" />
+      <workItem from="1730243751457" duration="6541000" />
+      <workItem from="1730260819777" duration="3767000" />
+      <workItem from="1730349712718" duration="3384000" />
+      <workItem from="1730427802878" duration="8512000" />
+      <workItem from="1730742783305" duration="18980000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
